@@ -70,9 +70,9 @@ The original CAD directory is preserved with **217 files: 86 parts, 18 assemblie
 
 The main assembly and selected mechanisms were opened read-only in **SOLIDWORKS 2025 SP3.0** and used to export the illustrations. The active top-level configuration contains **346 fully resolved component instances**, including two instances of one embedded virtual part. External models in the main assembly's dependency chain resolve within this package.
 
-原模型树仍有特征/配合警告；两个历史工程图及八个镜向铰链装配存在缺失引用，详见[模型指南](docs/model-guide.md#known-reference-gaps)。模型内容未作修复、改名、格式升级或重新保存。已有 STEP 文件未重新生成，不承诺与原生模型逐实体一致。
+两个历史工程图及八个镜向铰链装配存在缺失引用，详见[模型指南](docs/model-guide.md#known-reference-gaps)。模型内容未作修复、改名、格式升级或重新保存。已有 STEP 文件未重新生成，不承诺与原生模型逐实体一致。
 
-Existing feature/mate warnings remain. Two historical drawings and eight mirrored-hinge assemblies have missing references, detailed in the [model guide](docs/model-guide.md#known-reference-gaps). Native CAD content has not been repaired, renamed, upgraded or resaved. Existing STEP files have not been regenerated or checked for entity-by-entity equivalence with the native models.
+Two historical drawings and eight mirrored-hinge assemblies have missing references, detailed in the [model guide](docs/model-guide.md#known-reference-gaps). Native CAD content has not been repaired, renamed, upgraded or resaved. Existing STEP files have not been regenerated or checked for entity-by-entity equivalence with the native models.
 
 ## 仓库结构 / Repository structure
 

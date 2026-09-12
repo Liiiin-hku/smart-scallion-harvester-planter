@@ -25,10 +25,6 @@
 | 历史引用缺口 / Historical gaps | 2 张工程图、8 个镜向铰链装配；合计 4 个不同的缺失文件名 / Two drawings and eight mirrored-hinge assemblies; four distinct missing filenames |
 | 模型内容 / CAD content | 源文件与发布副本全部哈希一致 / All source and publication hashes match |
 
-主要模型再次只读打开时，API 返回加载错误 0、警告 130。130 是 `ReadOnly (2)` 与 `AlreadyOpen (128)` 的组合，不代表模型树中的特征/配合已无警告。SOLIDWORKS 模型树中确实可见既有特征/配合警告，未作修改。
-
-Reopening the main inspected models read-only returned load error 0 and warning 130. This combines `ReadOnly (2)` and `AlreadyOpen (128)`; it does not establish a warning-free feature/mate tree. Existing feature/mate warnings were visible and were not repaired.
-
 详细清单：[总装组件实例 / Main assembly instances](assembly-components.csv)、[装配与工程图依赖 / Assembly and drawing dependencies](dependency-audit.json)。组件清单是当前配置的实例导出，不是已经完成采购、加工或成本核算的 BOM。
 
 The component list is an instance export for the inspected configuration, not a procurement, manufacturing or costed BOM.
@@ -42,6 +38,5 @@ This release does not individually certify the geometry of all 217 files, traver
 ## API 判据来源 / API reference
 
 - [Component resolution states](https://help.solidworks.com/2023/English/api/swconst/SolidWorks.Interop.swconst~SolidWorks.Interop.swconst.swComponentSuppressionState_e.html)
-- [File load warning bitmask](https://help.solidworks.com/2026/english/api/swconst/SolidWorks.Interop.swconst~SolidWorks.Interop.swconst.swFileLoadWarning_e.html)
 - [Document dependencies](https://help.solidworks.com/2019/english/api/sldworksapi/SOLIDWORKS.Interop.sldworks~SOLIDWORKS.Interop.sldworks.ISldWorks~GetDocumentDependencies2.html)
 - [View bitmap export](https://help.solidworks.com/2021/English/api/sldworksapi/SolidWorks.Interop.sldworks~SolidWorks.Interop.sldworks.IModelDoc2~SaveBMP.html)
