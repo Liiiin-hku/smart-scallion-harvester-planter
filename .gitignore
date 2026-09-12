@@ -1,0 +1,21 @@
+# SOLIDWORKS locks and temporary files
+~$*
+*.sldbak
+*.SLDBAK
+*.swp
+*.tmp
+Thumbs.db
+desktop.ini
+
+# Presentation materials are outside the publication scope
+*.ppt
+*.pptx
+*.pptm
+
+# Local maintenance state and credentials
+.local/
+memory/
+.env
+.env.*
+*.pem
+*.key

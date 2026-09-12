@@ -1,0 +1,1469 @@
+[
+  {
+    "file": "不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB].sldasm",
+    "references": [
+      {
+        "file": "不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_16缸体.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_16活塞杆.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_SDB.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "杆端F-M8X125U.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      }
+    ]
+  },
+  {
+    "file": "大葱收割机.SLDASM",
+    "references": [
+      {
+        "file": "收割部分.SLDASM",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "标件/活动铰链[CT-20-2020].step.SLDASM",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "_CT1-20-2020.step.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "_CT2-20-2020.step.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带型材.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向滚轴.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向轮.SLDASM",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向滚.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带支撑型材.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "传送带轴固定座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "标件/GB╱T 70.2-2015[内六角平圆头螺钉M4×12].sldprt",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "传送带轴固定调节座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "传送带轴固定调节电机座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向滚 动力.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向轮2.SLDASM",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向滚2.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "传送带轴固定座2.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向滚2固定亚克力板.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "弹簧座2.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向轮2张紧.SLDASM",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "弹簧座亚克力.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "弹簧座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "1X10X30.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "零件5^收割部分.SLDPRT",
+        "exists": true,
+        "inside_package": false,
+        "embedded_virtual": true
+      },
+      {
+        "file": "松土型材支架.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "松土型材支架2.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "松土铲刀.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "松土铲刀固定.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "清土刷轮.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "清土轮支架支撑型材2.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "气缸座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "气缸座 3.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "扶葱.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "镜向扶葱.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "轮子/23. Tyre Sub Assembly.SLDASM",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "轮子/19.AXLE.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "轮子/20.RIM.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "轮子/21. TYRE.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "车架.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "气缸座2.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "电源.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB].sldasm",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_16缸体.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_16活塞杆.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_SDB.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "杆端F-M8X125U.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/SDB.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "收集装置.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "翻土.SLDASM",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "轴.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "翻土.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "起垄.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "起垄座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "开沟.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "播种部分.SLDASM",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "储存箱子.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "盘.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "播苗盘.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "Spike Gribe.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "储存箱子支撑.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "固定座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "标件/特殊螺钉 小径内六角圆柱头螺钉[PSGS-M8-30-B].SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "负重轮.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "负重轮座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      }
+    ]
+  },
+  {
+    "file": "大葱收割机.SLDDRW",
+    "references": [
+      {
+        "file": "大葱收割机.SLDASM",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "收割部分.SLDASM",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "标件/活动铰链[CT-20-2020].step.SLDASM",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "_CT1-20-2020.step.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "_CT2-20-2020.step.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带型材.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向滚轴.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向轮.SLDASM",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向滚.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带支撑型材.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "传送带轴固定座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "标件/GB╱T 70.2-2015[内六角平圆头螺钉M4×12].sldprt",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "传送带轴固定调节座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "传送带轴固定调节电机座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向滚 动力.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向轮2.SLDASM",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向滚2.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "传送带轴固定座2.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向滚2固定亚克力板.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "弹簧座2.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向轮2张紧.SLDASM",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "弹簧座亚克力.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "弹簧座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "1X10X30.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "零件5^收割部分.SLDPRT",
+        "exists": true,
+        "inside_package": false,
+        "embedded_virtual": true
+      },
+      {
+        "file": "松土型材支架.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "松土型材支架2.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "松土铲刀.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "松土铲刀固定.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "清土刷轮.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "清土轮支架支撑型材2.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "气缸座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "气缸座 3.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "扶葱.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "镜向扶葱.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "轮子/23. Tyre Sub Assembly.SLDASM",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "轮子/19.AXLE.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "轮子/20.RIM.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "轮子/21. TYRE.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "车架.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "气缸座2.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "电源.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB].sldasm",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_16缸体.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_16活塞杆.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_SDB.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "杆端F-M8X125U.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/SDB.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "收集装置.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "翻土.SLDASM",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "轴.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "翻土.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "起垄.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "起垄座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "开沟.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "播种部分.SLDASM",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "储存箱子.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "盘.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "播苗盘.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "Spike Gribe.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "储存箱子支撑.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "固定座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "标件/特殊螺钉 小径内六角圆柱头螺钉[PSGS-M8-30-B].SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "负重轮.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "负重轮座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      }
+    ]
+  },
+  {
+    "file": "履带原版.SLDDRW",
+    "references": [
+      {
+        "file": "履带原版.SLDASM",
+        "exists": false,
+        "inside_package": false,
+        "embedded_virtual": false
+      }
+    ]
+  },
+  {
+    "file": "拆解.SLDDRW",
+    "references": [
+      {
+        "file": "拆解.SLDASM",
+        "exists": false,
+        "inside_package": false,
+        "embedded_virtual": false
+      }
+    ]
+  },
+  {
+    "file": "播种部分.SLDASM",
+    "references": [
+      {
+        "file": "储存箱子.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "盘.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "播苗盘.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "Spike Gribe.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "储存箱子支撑.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "固定座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "标件/特殊螺钉 小径内六角圆柱头螺钉[PSGS-M8-30-B].SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "气缸座2.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "负重轮.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "负重轮座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      }
+    ]
+  },
+  {
+    "file": "收割部分.SLDASM",
+    "references": [
+      {
+        "file": "标件/活动铰链[CT-20-2020].step.SLDASM",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "_CT1-20-2020.step.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "_CT2-20-2020.step.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带型材.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向滚轴.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向轮.SLDASM",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向滚.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带支撑型材.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "传送带轴固定座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "标件/GB╱T 70.2-2015[内六角平圆头螺钉M4×12].sldprt",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "传送带轴固定调节座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "传送带轴固定调节电机座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向滚 动力.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向轮2.SLDASM",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向滚2.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "传送带轴固定座2.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向滚2固定亚克力板.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "弹簧座2.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向轮2张紧.SLDASM",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "弹簧座亚克力.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "弹簧座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "1X10X30.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "零件5^收割部分.SLDPRT",
+        "exists": true,
+        "inside_package": false,
+        "embedded_virtual": true
+      },
+      {
+        "file": "松土型材支架.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "松土型材支架2.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "松土铲刀.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "松土铲刀固定.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "清土刷轮.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "清土轮支架支撑型材2.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "气缸座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "气缸座 3.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "扶葱.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "镜向扶葱.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      }
+    ]
+  },
+  {
+    "file": "标件/活动铰链[CT-20-2020].step.SLDASM",
+    "references": [
+      {
+        "file": "_CT1-20-2020.step.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "_CT2-20-2020.step.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      }
+    ]
+  },
+  {
+    "file": "标件/镜向活动铰链[CT-20-2020].step.SLDASM",
+    "references": [
+      {
+        "file": "镜向_CT1-20-2020.step.SLDPRT",
+        "exists": false,
+        "inside_package": false,
+        "embedded_virtual": false
+      },
+      {
+        "file": "镜向_CT2-20-2020.step.SLDPRT",
+        "exists": false,
+        "inside_package": false,
+        "embedded_virtual": false
+      }
+    ]
+  },
+  {
+    "file": "标件/镜向活动铰链[CT-20-2020].step1.SLDASM",
+    "references": [
+      {
+        "file": "镜向_CT1-20-2020.step.SLDPRT",
+        "exists": false,
+        "inside_package": false,
+        "embedded_virtual": false
+      },
+      {
+        "file": "镜向_CT2-20-2020.step.SLDPRT",
+        "exists": false,
+        "inside_package": false,
+        "embedded_virtual": false
+      }
+    ]
+  },
+  {
+    "file": "标件/镜向活动铰链[CT-20-2020].step2.SLDASM",
+    "references": [
+      {
+        "file": "镜向_CT1-20-2020.step.SLDPRT",
+        "exists": false,
+        "inside_package": false,
+        "embedded_virtual": false
+      },
+      {
+        "file": "镜向_CT2-20-2020.step.SLDPRT",
+        "exists": false,
+        "inside_package": false,
+        "embedded_virtual": false
+      }
+    ]
+  },
+  {
+    "file": "标件/镜向活动铰链[CT-20-2020].step3.SLDASM",
+    "references": [
+      {
+        "file": "镜向_CT1-20-2020.step.SLDPRT",
+        "exists": false,
+        "inside_package": false,
+        "embedded_virtual": false
+      },
+      {
+        "file": "镜向_CT2-20-2020.step.SLDPRT",
+        "exists": false,
+        "inside_package": false,
+        "embedded_virtual": false
+      }
+    ]
+  },
+  {
+    "file": "标件/镜向活动铰链[CT-20-2020].step4.SLDASM",
+    "references": [
+      {
+        "file": "镜向_CT1-20-2020.step.SLDPRT",
+        "exists": false,
+        "inside_package": false,
+        "embedded_virtual": false
+      },
+      {
+        "file": "镜向_CT2-20-2020.step.SLDPRT",
+        "exists": false,
+        "inside_package": false,
+        "embedded_virtual": false
+      }
+    ]
+  },
+  {
+    "file": "标件/镜向活动铰链[CT-20-2020].step5.SLDASM",
+    "references": [
+      {
+        "file": "镜向_CT1-20-2020.step.SLDPRT",
+        "exists": false,
+        "inside_package": false,
+        "embedded_virtual": false
+      },
+      {
+        "file": "镜向_CT2-20-2020.step.SLDPRT",
+        "exists": false,
+        "inside_package": false,
+        "embedded_virtual": false
+      }
+    ]
+  },
+  {
+    "file": "标件/镜向活动铰链[CT-20-2020].step6.SLDASM",
+    "references": [
+      {
+        "file": "镜向_CT1-20-2020.step.SLDPRT",
+        "exists": false,
+        "inside_package": false,
+        "embedded_virtual": false
+      },
+      {
+        "file": "镜向_CT2-20-2020.step.SLDPRT",
+        "exists": false,
+        "inside_package": false,
+        "embedded_virtual": false
+      }
+    ]
+  },
+  {
+    "file": "标件/镜向活动铰链[CT-20-2020].step7.SLDASM",
+    "references": [
+      {
+        "file": "镜向_CT1-20-2020.step.SLDPRT",
+        "exists": false,
+        "inside_package": false,
+        "embedded_virtual": false
+      },
+      {
+        "file": "镜向_CT2-20-2020.step.SLDPRT",
+        "exists": false,
+        "inside_package": false,
+        "embedded_virtual": false
+      }
+    ]
+  },
+  {
+    "file": "翻土.SLDASM",
+    "references": [
+      {
+        "file": "轴.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "翻土.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "起垄.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "起垄座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "开沟.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      }
+    ]
+  },
+  {
+    "file": "轮子/23. Tyre Sub Assembly.SLDASM",
+    "references": [
+      {
+        "file": "轮子/19.AXLE.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "轮子/20.RIM.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "轮子/21. TYRE.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      }
+    ]
+  },
+  {
+    "file": "输送带导向轮.SLDASM",
+    "references": [
+      {
+        "file": "输送带导向滚.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向滚轴.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      }
+    ]
+  },
+  {
+    "file": "输送带导向轮2.SLDASM",
+    "references": [
+      {
+        "file": "输送带导向滚2.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向滚轴.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "传送带轴固定座2.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "输送带导向滚2固定亚克力板.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "弹簧座2.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "_CT1-20-2020.step.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      }
+    ]
+  },
+  {
+    "file": "输送带导向轮2张紧.SLDASM",
+    "references": [
+      {
+        "file": "弹簧座亚克力.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "弹簧座.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      },
+      {
+        "file": "1X10X30.SLDPRT",
+        "exists": true,
+        "inside_package": true,
+        "embedded_virtual": false
+      }
+    ]
+  }
+]

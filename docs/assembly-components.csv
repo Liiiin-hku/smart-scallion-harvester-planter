@@ -1,0 +1,347 @@
+﻿instance,model,configuration,fully_resolved,embedded_virtual
+23. Tyre Sub Assembly-1,cad/大葱收种一体机/轮子/23. Tyre Sub Assembly.SLDASM,Default,True,False
+23. Tyre Sub Assembly-1/19.AXLE-1,cad/大葱收种一体机/轮子/19.AXLE.SLDPRT,Default,True,False
+23. Tyre Sub Assembly-1/20.RIM-1,cad/大葱收种一体机/轮子/20.RIM.SLDPRT,Default,True,False
+23. Tyre Sub Assembly-1/21. TYRE-1,cad/大葱收种一体机/轮子/21. TYRE.SLDPRT,Default,True,False
+23. Tyre Sub Assembly-3,cad/大葱收种一体机/轮子/23. Tyre Sub Assembly.SLDASM,Default,True,False
+23. Tyre Sub Assembly-3/19.AXLE-1,cad/大葱收种一体机/轮子/19.AXLE.SLDPRT,Default,True,False
+23. Tyre Sub Assembly-3/20.RIM-1,cad/大葱收种一体机/轮子/20.RIM.SLDPRT,Default,True,False
+23. Tyre Sub Assembly-3/21. TYRE-1,cad/大葱收种一体机/轮子/21. TYRE.SLDPRT,Default,True,False
+23. Tyre Sub Assembly-5,cad/大葱收种一体机/轮子/23. Tyre Sub Assembly.SLDASM,Default,True,False
+23. Tyre Sub Assembly-5/19.AXLE-1,cad/大葱收种一体机/轮子/19.AXLE.SLDPRT,Default,True,False
+23. Tyre Sub Assembly-5/20.RIM-1,cad/大葱收种一体机/轮子/20.RIM.SLDPRT,Default,True,False
+23. Tyre Sub Assembly-5/21. TYRE-1,cad/大葱收种一体机/轮子/21. TYRE.SLDPRT,Default,True,False
+23. Tyre Sub Assembly-6,cad/大葱收种一体机/轮子/23. Tyre Sub Assembly.SLDASM,Default,True,False
+23. Tyre Sub Assembly-6/19.AXLE-1,cad/大葱收种一体机/轮子/19.AXLE.SLDPRT,Default,True,False
+23. Tyre Sub Assembly-6/20.RIM-1,cad/大葱收种一体机/轮子/20.RIM.SLDPRT,Default,True,False
+23. Tyre Sub Assembly-6/21. TYRE-1,cad/大葱收种一体机/轮子/21. TYRE.SLDPRT,Default,True,False
+SDB-1,cad/大葱收种一体机/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/SDB.SLDPRT,后铰固定架,True,False
+SDB-2,cad/大葱收种一体机/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/SDB.SLDPRT,后铰固定架,True,False
+SDB-3,cad/大葱收种一体机/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/SDB.SLDPRT,后铰固定架,True,False
+SDB-4,cad/大葱收种一体机/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/SDB.SLDPRT,后铰固定架,True,False
+不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]-1,cad/大葱收种一体机/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB].sldasm,CTMA-16x25-S-CA-SDB,True,False
+不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]-1/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_16活塞杆-2,cad/大葱收种一体机/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_16活塞杆.SLDPRT,16,True,False
+不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]-1/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_16缸体-2,cad/大葱收种一体机/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_16缸体.SLDPRT,16,True,False
+不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]-1/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_SDB-1,cad/大葱收种一体机/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_SDB.SLDPRT,后铰固定架,True,False
+不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]-1/杆端F-M8X125U-1,cad/大葱收种一体机/杆端F-M8X125U.SLDPRT,默认,True,False
+不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]-2,cad/大葱收种一体机/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB].sldasm,CTMA-16x25-S-CA-SDB,True,False
+不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]-2/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_16活塞杆-2,cad/大葱收种一体机/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_16活塞杆.SLDPRT,16,True,False
+不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]-2/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_16缸体-2,cad/大葱收种一体机/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_16缸体.SLDPRT,16,True,False
+不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]-2/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_SDB-1,cad/大葱收种一体机/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_SDB.SLDPRT,后铰固定架,True,False
+不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]-2/杆端F-M8X125U-1,cad/大葱收种一体机/杆端F-M8X125U.SLDPRT,默认,True,False
+不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]-3,cad/大葱收种一体机/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB].sldasm,CTMA-16x25-S-CA-SDB,True,False
+不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]-3/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_16活塞杆-2,cad/大葱收种一体机/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_16活塞杆.SLDPRT,16,True,False
+不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]-3/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_16缸体-2,cad/大葱收种一体机/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_16缸体.SLDPRT,16,True,False
+不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]-3/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_SDB-1,cad/大葱收种一体机/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_SDB.SLDPRT,后铰固定架,True,False
+不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]-3/杆端F-M8X125U-1,cad/大葱收种一体机/杆端F-M8X125U.SLDPRT,默认,True,False
+不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]-4,cad/大葱收种一体机/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB].sldasm,CTMA-16x25-S-CA-SDB,True,False
+不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]-4/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_16活塞杆-2,cad/大葱收种一体机/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_16活塞杆.SLDPRT,16,True,False
+不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]-4/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_16缸体-2,cad/大葱收种一体机/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_16缸体.SLDPRT,16,True,False
+不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]-4/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_SDB-1,cad/大葱收种一体机/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]/不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]_SDB.SLDPRT,后铰固定架,True,False
+不锈钢迷你型CTMA系列气缸[CTMA-16x25-S-CA-SDB]-4/杆端F-M8X125U-1,cad/大葱收种一体机/杆端F-M8X125U.SLDPRT,默认,True,False
+播种部分-1,cad/大葱收种一体机/播种部分.SLDASM,默认,True,False
+播种部分-1/Spike Gribe-1,cad/大葱收种一体机/Spike Gribe.SLDPRT,Default,True,False
+播种部分-1/储存箱子-1,cad/大葱收种一体机/储存箱子.SLDPRT,默认,True,False
+播种部分-1/储存箱子支撑-1,cad/大葱收种一体机/储存箱子支撑.SLDPRT,默认<按加工>,True,False
+播种部分-1/固定座-1,cad/大葱收种一体机/固定座.SLDPRT,默认,True,False
+播种部分-1/固定座-2,cad/大葱收种一体机/固定座.SLDPRT,默认,True,False
+播种部分-1/播苗盘-1,cad/大葱收种一体机/播苗盘.SLDPRT,默认,True,False
+播种部分-1/播苗盘-3,cad/大葱收种一体机/播苗盘.SLDPRT,默认,True,False
+播种部分-1/气缸座2-1,cad/大葱收种一体机/气缸座2.SLDPRT,默认,True,False
+播种部分-1/气缸座2-2,cad/大葱收种一体机/气缸座2.SLDPRT,默认,True,False
+播种部分-1/特殊螺钉 小径内六角圆柱头螺钉[PSGS-M8-30-B]-1,cad/大葱收种一体机/标件/特殊螺钉 小径内六角圆柱头螺钉[PSGS-M8-30-B].SLDPRT,默认,True,False
+播种部分-1/盘-1,cad/大葱收种一体机/盘.SLDPRT,默认,True,False
+播种部分-1/负重轮-1,cad/大葱收种一体机/负重轮.SLDPRT,默认,True,False
+播种部分-1/负重轮-4,cad/大葱收种一体机/负重轮.SLDPRT,默认,True,False
+播种部分-1/负重轮座-1,cad/大葱收种一体机/负重轮座.SLDPRT,默认,True,False
+播种部分-1/负重轮座-4,cad/大葱收种一体机/负重轮座.SLDPRT,默认,True,False
+收割部分-1,cad/大葱收种一体机/收割部分.SLDASM,默认,True,False
+收割部分-1/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-1,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-10,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-11,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-12,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-2,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-3,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-4,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-9,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/GB╱T 70.2-2015[内六角平圆头螺钉M4×12]-1,cad/大葱收种一体机/标件/GB╱T 70.2-2015[内六角平圆头螺钉M4×12].sldprt,M4×12,True,False
+收割部分-1/GB╱T 70.2-2015[内六角平圆头螺钉M4×12]-10,cad/大葱收种一体机/标件/GB╱T 70.2-2015[内六角平圆头螺钉M4×12].sldprt,M4×12,True,False
+收割部分-1/GB╱T 70.2-2015[内六角平圆头螺钉M4×12]-11,cad/大葱收种一体机/标件/GB╱T 70.2-2015[内六角平圆头螺钉M4×12].sldprt,M4×12,True,False
+收割部分-1/GB╱T 70.2-2015[内六角平圆头螺钉M4×12]-12,cad/大葱收种一体机/标件/GB╱T 70.2-2015[内六角平圆头螺钉M4×12].sldprt,M4×12,True,False
+收割部分-1/GB╱T 70.2-2015[内六角平圆头螺钉M4×12]-2,cad/大葱收种一体机/标件/GB╱T 70.2-2015[内六角平圆头螺钉M4×12].sldprt,M4×12,True,False
+收割部分-1/GB╱T 70.2-2015[内六角平圆头螺钉M4×12]-3,cad/大葱收种一体机/标件/GB╱T 70.2-2015[内六角平圆头螺钉M4×12].sldprt,M4×12,True,False
+收割部分-1/GB╱T 70.2-2015[内六角平圆头螺钉M4×12]-4,cad/大葱收种一体机/标件/GB╱T 70.2-2015[内六角平圆头螺钉M4×12].sldprt,M4×12,True,False
+收割部分-1/GB╱T 70.2-2015[内六角平圆头螺钉M4×12]-9,cad/大葱收种一体机/标件/GB╱T 70.2-2015[内六角平圆头螺钉M4×12].sldprt,M4×12,True,False
+收割部分-1/传送带轴固定座-1,cad/大葱收种一体机/传送带轴固定座.SLDPRT,默认,True,False
+收割部分-1/传送带轴固定座-2,cad/大葱收种一体机/传送带轴固定座.SLDPRT,默认,True,False
+收割部分-1/传送带轴固定座-5,cad/大葱收种一体机/传送带轴固定座.SLDPRT,默认,True,False
+收割部分-1/传送带轴固定座-6,cad/大葱收种一体机/传送带轴固定座.SLDPRT,默认,True,False
+收割部分-1/传送带轴固定调节座-1,cad/大葱收种一体机/传送带轴固定调节座.SLDPRT,默认,True,False
+收割部分-1/传送带轴固定调节座-3,cad/大葱收种一体机/传送带轴固定调节座.SLDPRT,默认,True,False
+收割部分-1/传送带轴固定调节电机座-1,cad/大葱收种一体机/传送带轴固定调节电机座.SLDPRT,默认,True,False
+收割部分-1/传送带轴固定调节电机座-3,cad/大葱收种一体机/传送带轴固定调节电机座.SLDPRT,默认,True,False
+收割部分-1/扶葱-1,cad/大葱收种一体机/扶葱.SLDPRT,默认,True,False
+收割部分-1/松土型材支架-1,cad/大葱收种一体机/松土型材支架.SLDPRT,默认,True,False
+收割部分-1/松土型材支架-2,cad/大葱收种一体机/松土型材支架.SLDPRT,默认,True,False
+收割部分-1/松土型材支架2-1,cad/大葱收种一体机/松土型材支架2.SLDPRT,默认,True,False
+收割部分-1/松土型材支架2-2,cad/大葱收种一体机/松土型材支架2.SLDPRT,默认,True,False
+收割部分-1/松土铲刀-1,cad/大葱收种一体机/松土铲刀.SLDPRT,默认,True,False
+收割部分-1/松土铲刀固定-1,cad/大葱收种一体机/松土铲刀固定.SLDPRT,默认,True,False
+收割部分-1/松土铲刀固定-3,cad/大葱收种一体机/松土铲刀固定.SLDPRT,默认,True,False
+收割部分-1/松土铲刀固定-4,cad/大葱收种一体机/松土铲刀固定.SLDPRT,默认,True,False
+收割部分-1/松土铲刀固定-5,cad/大葱收种一体机/松土铲刀固定.SLDPRT,默认,True,False
+收割部分-1/气缸座 3-1,cad/大葱收种一体机/气缸座 3.SLDPRT,默认,True,False
+收割部分-1/气缸座 3-2,cad/大葱收种一体机/气缸座 3.SLDPRT,默认,True,False
+收割部分-1/气缸座-1,cad/大葱收种一体机/气缸座.SLDPRT,默认,True,False
+收割部分-1/气缸座-2,cad/大葱收种一体机/气缸座.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-10,cad/大葱收种一体机/标件/活动铰链[CT-20-2020].step.SLDASM,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-10/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-10/_CT2-20-2020.step-1,cad/大葱收种一体机/_CT2-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-11,cad/大葱收种一体机/标件/活动铰链[CT-20-2020].step.SLDASM,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-11/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-11/_CT2-20-2020.step-1,cad/大葱收种一体机/_CT2-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-12,cad/大葱收种一体机/标件/活动铰链[CT-20-2020].step.SLDASM,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-12/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-12/_CT2-20-2020.step-1,cad/大葱收种一体机/_CT2-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-15,cad/大葱收种一体机/标件/活动铰链[CT-20-2020].step.SLDASM,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-15/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-15/_CT2-20-2020.step-1,cad/大葱收种一体机/_CT2-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-16,cad/大葱收种一体机/标件/活动铰链[CT-20-2020].step.SLDASM,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-16/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-16/_CT2-20-2020.step-1,cad/大葱收种一体机/_CT2-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-25,cad/大葱收种一体机/标件/活动铰链[CT-20-2020].step.SLDASM,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-25/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-25/_CT2-20-2020.step-1,cad/大葱收种一体机/_CT2-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-26,cad/大葱收种一体机/标件/活动铰链[CT-20-2020].step.SLDASM,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-26/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-26/_CT2-20-2020.step-1,cad/大葱收种一体机/_CT2-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-27,cad/大葱收种一体机/标件/活动铰链[CT-20-2020].step.SLDASM,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-27/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-27/_CT2-20-2020.step-1,cad/大葱收种一体机/_CT2-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-28,cad/大葱收种一体机/标件/活动铰链[CT-20-2020].step.SLDASM,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-28/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-28/_CT2-20-2020.step-1,cad/大葱收种一体机/_CT2-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-29,cad/大葱收种一体机/标件/活动铰链[CT-20-2020].step.SLDASM,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-29/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-29/_CT2-20-2020.step-1,cad/大葱收种一体机/_CT2-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-30,cad/大葱收种一体机/标件/活动铰链[CT-20-2020].step.SLDASM,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-30/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-30/_CT2-20-2020.step-1,cad/大葱收种一体机/_CT2-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-31,cad/大葱收种一体机/标件/活动铰链[CT-20-2020].step.SLDASM,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-31/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-31/_CT2-20-2020.step-1,cad/大葱收种一体机/_CT2-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-32,cad/大葱收种一体机/标件/活动铰链[CT-20-2020].step.SLDASM,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-32/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-32/_CT2-20-2020.step-1,cad/大葱收种一体机/_CT2-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-7,cad/大葱收种一体机/标件/活动铰链[CT-20-2020].step.SLDASM,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-7/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-7/_CT2-20-2020.step-1,cad/大葱收种一体机/_CT2-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-8,cad/大葱收种一体机/标件/活动铰链[CT-20-2020].step.SLDASM,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-8/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-8/_CT2-20-2020.step-1,cad/大葱收种一体机/_CT2-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-9,cad/大葱收种一体机/标件/活动铰链[CT-20-2020].step.SLDASM,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-9/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/活动铰链[CT-20-2020].step-9/_CT2-20-2020.step-1,cad/大葱收种一体机/_CT2-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/清土刷轮-1,cad/大葱收种一体机/清土刷轮.SLDPRT,默认,True,False
+收割部分-1/清土轮支架支撑型材2-1,cad/大葱收种一体机/清土轮支架支撑型材2.SLDPRT,默认,True,False
+收割部分-1/清土轮支架支撑型材2-2,cad/大葱收种一体机/清土轮支架支撑型材2.SLDPRT,默认,True,False
+收割部分-1/输送带-2,cad/大葱收种一体机/输送带.SLDPRT,默认,True,False
+收割部分-1/输送带-4,cad/大葱收种一体机/输送带.SLDPRT,默认,True,False
+收割部分-1/输送带型材-1,cad/大葱收种一体机/输送带型材.SLDPRT,默认,True,False
+收割部分-1/输送带型材-3,cad/大葱收种一体机/输送带型材.SLDPRT,默认,True,False
+收割部分-1/输送带型材-6,cad/大葱收种一体机/输送带型材.SLDPRT,默认,True,False
+收割部分-1/输送带型材-7,cad/大葱收种一体机/输送带型材.SLDPRT,默认,True,False
+收割部分-1/输送带导向滚 动力-1,cad/大葱收种一体机/输送带导向滚 动力.SLDPRT,默认,True,False
+收割部分-1/输送带导向滚 动力-3,cad/大葱收种一体机/输送带导向滚 动力.SLDPRT,默认,True,False
+收割部分-1/输送带导向滚轴-1,cad/大葱收种一体机/输送带导向滚轴.SLDPRT,默认,True,False
+收割部分-1/输送带导向滚轴-3,cad/大葱收种一体机/输送带导向滚轴.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮-1,cad/大葱收种一体机/输送带导向轮.SLDASM,默认,True,False
+收割部分-1/输送带导向轮-1/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ]-1,cad/大葱收种一体机/标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt,619／6-RZ,True,False
+收割部分-1/输送带导向轮-1/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ]-2,cad/大葱收种一体机/标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt,619／6-RZ,True,False
+收割部分-1/输送带导向轮-1/输送带导向滚-1,cad/大葱收种一体机/输送带导向滚.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮-1/输送带导向滚轴-1,cad/大葱收种一体机/输送带导向滚轴.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮-3,cad/大葱收种一体机/输送带导向轮.SLDASM,默认,True,False
+收割部分-1/输送带导向轮-3/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ]-1,cad/大葱收种一体机/标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt,619／6-RZ,True,False
+收割部分-1/输送带导向轮-3/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ]-2,cad/大葱收种一体机/标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt,619／6-RZ,True,False
+收割部分-1/输送带导向轮-3/输送带导向滚-1,cad/大葱收种一体机/输送带导向滚.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮-3/输送带导向滚轴-1,cad/大葱收种一体机/输送带导向滚轴.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-1,cad/大葱收种一体机/输送带导向轮2.SLDASM,默认,True,False
+收割部分-1/输送带导向轮2-1/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ]-1,cad/大葱收种一体机/标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt,619／6-RZ,True,False
+收割部分-1/输送带导向轮2-1/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ]-2,cad/大葱收种一体机/标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt,619／6-RZ,True,False
+收割部分-1/输送带导向轮2-1/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-1,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/输送带导向轮2-1/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-2,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/输送带导向轮2-1/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-1/_CT1-20-2020.step-2,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-1/传送带轴固定座2-1,cad/大葱收种一体机/传送带轴固定座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-1/传送带轴固定座2-2,cad/大葱收种一体机/传送带轴固定座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-1/弹簧座2-1,cad/大葱收种一体机/弹簧座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-1/输送带导向滚2-1,cad/大葱收种一体机/输送带导向滚2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-1/输送带导向滚2固定亚克力板-1,cad/大葱收种一体机/输送带导向滚2固定亚克力板.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-1/输送带导向滚轴-1,cad/大葱收种一体机/输送带导向滚轴.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-10,cad/大葱收种一体机/输送带导向轮2.SLDASM,默认,True,False
+收割部分-1/输送带导向轮2-10/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ]-1,cad/大葱收种一体机/标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt,619／6-RZ,True,False
+收割部分-1/输送带导向轮2-10/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ]-2,cad/大葱收种一体机/标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt,619／6-RZ,True,False
+收割部分-1/输送带导向轮2-10/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-1,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/输送带导向轮2-10/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-2,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/输送带导向轮2-10/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-10/_CT1-20-2020.step-2,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-10/传送带轴固定座2-1,cad/大葱收种一体机/传送带轴固定座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-10/传送带轴固定座2-2,cad/大葱收种一体机/传送带轴固定座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-10/弹簧座2-1,cad/大葱收种一体机/弹簧座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-10/输送带导向滚2-1,cad/大葱收种一体机/输送带导向滚2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-10/输送带导向滚2固定亚克力板-1,cad/大葱收种一体机/输送带导向滚2固定亚克力板.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-10/输送带导向滚轴-1,cad/大葱收种一体机/输送带导向滚轴.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-11,cad/大葱收种一体机/输送带导向轮2.SLDASM,默认,True,False
+收割部分-1/输送带导向轮2-11/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ]-1,cad/大葱收种一体机/标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt,619／6-RZ,True,False
+收割部分-1/输送带导向轮2-11/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ]-2,cad/大葱收种一体机/标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt,619／6-RZ,True,False
+收割部分-1/输送带导向轮2-11/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-1,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/输送带导向轮2-11/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-2,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/输送带导向轮2-11/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-11/_CT1-20-2020.step-2,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-11/传送带轴固定座2-1,cad/大葱收种一体机/传送带轴固定座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-11/传送带轴固定座2-2,cad/大葱收种一体机/传送带轴固定座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-11/弹簧座2-1,cad/大葱收种一体机/弹簧座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-11/输送带导向滚2-1,cad/大葱收种一体机/输送带导向滚2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-11/输送带导向滚2固定亚克力板-1,cad/大葱收种一体机/输送带导向滚2固定亚克力板.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-11/输送带导向滚轴-1,cad/大葱收种一体机/输送带导向滚轴.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-12,cad/大葱收种一体机/输送带导向轮2.SLDASM,默认,True,False
+收割部分-1/输送带导向轮2-12/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ]-1,cad/大葱收种一体机/标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt,619／6-RZ,True,False
+收割部分-1/输送带导向轮2-12/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ]-2,cad/大葱收种一体机/标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt,619／6-RZ,True,False
+收割部分-1/输送带导向轮2-12/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-1,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/输送带导向轮2-12/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-2,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/输送带导向轮2-12/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-12/_CT1-20-2020.step-2,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-12/传送带轴固定座2-1,cad/大葱收种一体机/传送带轴固定座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-12/传送带轴固定座2-2,cad/大葱收种一体机/传送带轴固定座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-12/弹簧座2-1,cad/大葱收种一体机/弹簧座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-12/输送带导向滚2-1,cad/大葱收种一体机/输送带导向滚2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-12/输送带导向滚2固定亚克力板-1,cad/大葱收种一体机/输送带导向滚2固定亚克力板.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-12/输送带导向滚轴-1,cad/大葱收种一体机/输送带导向滚轴.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-13,cad/大葱收种一体机/输送带导向轮2.SLDASM,默认,True,False
+收割部分-1/输送带导向轮2-13/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ]-1,cad/大葱收种一体机/标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt,619／6-RZ,True,False
+收割部分-1/输送带导向轮2-13/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ]-2,cad/大葱收种一体机/标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt,619／6-RZ,True,False
+收割部分-1/输送带导向轮2-13/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-1,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/输送带导向轮2-13/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-2,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/输送带导向轮2-13/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-13/_CT1-20-2020.step-2,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-13/传送带轴固定座2-1,cad/大葱收种一体机/传送带轴固定座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-13/传送带轴固定座2-2,cad/大葱收种一体机/传送带轴固定座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-13/弹簧座2-1,cad/大葱收种一体机/弹簧座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-13/输送带导向滚2-1,cad/大葱收种一体机/输送带导向滚2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-13/输送带导向滚2固定亚克力板-1,cad/大葱收种一体机/输送带导向滚2固定亚克力板.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-13/输送带导向滚轴-1,cad/大葱收种一体机/输送带导向滚轴.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-2,cad/大葱收种一体机/输送带导向轮2.SLDASM,默认,True,False
+收割部分-1/输送带导向轮2-2/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ]-1,cad/大葱收种一体机/标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt,619／6-RZ,True,False
+收割部分-1/输送带导向轮2-2/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ]-2,cad/大葱收种一体机/标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt,619／6-RZ,True,False
+收割部分-1/输送带导向轮2-2/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-1,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/输送带导向轮2-2/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-2,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/输送带导向轮2-2/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-2/_CT1-20-2020.step-2,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-2/传送带轴固定座2-1,cad/大葱收种一体机/传送带轴固定座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-2/传送带轴固定座2-2,cad/大葱收种一体机/传送带轴固定座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-2/弹簧座2-1,cad/大葱收种一体机/弹簧座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-2/输送带导向滚2-1,cad/大葱收种一体机/输送带导向滚2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-2/输送带导向滚2固定亚克力板-1,cad/大葱收种一体机/输送带导向滚2固定亚克力板.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-2/输送带导向滚轴-1,cad/大葱收种一体机/输送带导向滚轴.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-3,cad/大葱收种一体机/输送带导向轮2.SLDASM,默认,True,False
+收割部分-1/输送带导向轮2-3/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ]-1,cad/大葱收种一体机/标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt,619／6-RZ,True,False
+收割部分-1/输送带导向轮2-3/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ]-2,cad/大葱收种一体机/标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt,619／6-RZ,True,False
+收割部分-1/输送带导向轮2-3/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-1,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/输送带导向轮2-3/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-2,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/输送带导向轮2-3/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-3/_CT1-20-2020.step-2,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-3/传送带轴固定座2-1,cad/大葱收种一体机/传送带轴固定座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-3/传送带轴固定座2-2,cad/大葱收种一体机/传送带轴固定座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-3/弹簧座2-1,cad/大葱收种一体机/弹簧座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-3/输送带导向滚2-1,cad/大葱收种一体机/输送带导向滚2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-3/输送带导向滚2固定亚克力板-1,cad/大葱收种一体机/输送带导向滚2固定亚克力板.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-3/输送带导向滚轴-1,cad/大葱收种一体机/输送带导向滚轴.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-5,cad/大葱收种一体机/输送带导向轮2.SLDASM,默认,True,False
+收割部分-1/输送带导向轮2-5/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ]-1,cad/大葱收种一体机/标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt,619／6-RZ,True,False
+收割部分-1/输送带导向轮2-5/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ]-2,cad/大葱收种一体机/标件/GB╱T 276-2013[一面带密封圈（非接触式）的深沟球轴承[60000-RZ]619／6-RZ].sldprt,619／6-RZ,True,False
+收割部分-1/输送带导向轮2-5/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-1,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/输送带导向轮2-5/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6]-2,cad/大葱收种一体机/标件/GB╱T 6186-2000[2型全金属六角锁紧螺母 9级M6].sldprt,M6,True,False
+收割部分-1/输送带导向轮2-5/_CT1-20-2020.step-1,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-5/_CT1-20-2020.step-2,cad/大葱收种一体机/_CT1-20-2020.step.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-5/传送带轴固定座2-1,cad/大葱收种一体机/传送带轴固定座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-5/传送带轴固定座2-2,cad/大葱收种一体机/传送带轴固定座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-5/弹簧座2-1,cad/大葱收种一体机/弹簧座2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-5/输送带导向滚2-1,cad/大葱收种一体机/输送带导向滚2.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-5/输送带导向滚2固定亚克力板-1,cad/大葱收种一体机/输送带导向滚2固定亚克力板.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2-5/输送带导向滚轴-1,cad/大葱收种一体机/输送带导向滚轴.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2张紧-1,cad/大葱收种一体机/输送带导向轮2张紧.SLDASM,默认,True,False
+收割部分-1/输送带导向轮2张紧-1/1X10X30-1,cad/大葱收种一体机/1X10X30.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2张紧-1/弹簧座-1,cad/大葱收种一体机/弹簧座.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2张紧-1/弹簧座亚克力-1,cad/大葱收种一体机/弹簧座亚克力.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2张紧-5,cad/大葱收种一体机/输送带导向轮2张紧.SLDASM,默认,True,False
+收割部分-1/输送带导向轮2张紧-5/1X10X30-1,cad/大葱收种一体机/1X10X30.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2张紧-5/弹簧座-1,cad/大葱收种一体机/弹簧座.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2张紧-5/弹簧座亚克力-1,cad/大葱收种一体机/弹簧座亚克力.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2张紧-8,cad/大葱收种一体机/输送带导向轮2张紧.SLDASM,默认,True,False
+收割部分-1/输送带导向轮2张紧-8/1X10X30-1,cad/大葱收种一体机/1X10X30.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2张紧-8/弹簧座-1,cad/大葱收种一体机/弹簧座.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2张紧-8/弹簧座亚克力-1,cad/大葱收种一体机/弹簧座亚克力.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2张紧-9,cad/大葱收种一体机/输送带导向轮2张紧.SLDASM,默认,True,False
+收割部分-1/输送带导向轮2张紧-9/1X10X30-1,cad/大葱收种一体机/1X10X30.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2张紧-9/弹簧座-1,cad/大葱收种一体机/弹簧座.SLDPRT,默认,True,False
+收割部分-1/输送带导向轮2张紧-9/弹簧座亚克力-1,cad/大葱收种一体机/弹簧座亚克力.SLDPRT,默认,True,False
+收割部分-1/输送带支撑型材-1,cad/大葱收种一体机/输送带支撑型材.SLDPRT,默认,True,False
+收割部分-1/输送带支撑型材-2,cad/大葱收种一体机/输送带支撑型材.SLDPRT,默认,True,False
+收割部分-1/输送带支撑型材-5,cad/大葱收种一体机/输送带支撑型材.SLDPRT,默认,True,False
+收割部分-1/输送带支撑型材-6,cad/大葱收种一体机/输送带支撑型材.SLDPRT,默认,True,False
+收割部分-1/镜向扶葱-3,cad/大葱收种一体机/镜向扶葱.SLDPRT,默认,True,False
+收割部分-1/零件5^收割部分-1,embedded:零件5^收割部分.SLDPRT,默认,True,True
+收割部分-1/零件5^收割部分-3,embedded:零件5^收割部分.SLDPRT,默认,True,True
+收集装置-1,cad/大葱收种一体机/收集装置.SLDPRT,默认,True,False
+气缸座2-1,cad/大葱收种一体机/气缸座2.SLDPRT,默认,True,False
+气缸座2-2,cad/大葱收种一体机/气缸座2.SLDPRT,默认,True,False
+气缸座2-3,cad/大葱收种一体机/气缸座2.SLDPRT,默认,True,False
+气缸座2-4,cad/大葱收种一体机/气缸座2.SLDPRT,默认,True,False
+气缸座2-5,cad/大葱收种一体机/气缸座2.SLDPRT,默认,True,False
+气缸座2-6,cad/大葱收种一体机/气缸座2.SLDPRT,默认,True,False
+气缸座2-7,cad/大葱收种一体机/气缸座2.SLDPRT,默认,True,False
+气缸座2-8,cad/大葱收种一体机/气缸座2.SLDPRT,默认,True,False
+电源-1,cad/大葱收种一体机/电源.SLDPRT,默认,True,False
+电源-2,cad/大葱收种一体机/电源.SLDPRT,默认,True,False
+翻土-3,cad/大葱收种一体机/翻土.SLDASM,默认,True,False
+翻土-3/开沟-1,cad/大葱收种一体机/开沟.SLDPRT,默认,True,False
+翻土-3/翻土-1,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-10,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-11,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-12,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-13,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-14,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-15,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-16,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-17,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-18,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-19,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-2,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-20,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-21,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-22,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-23,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-24,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-25,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-26,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-27,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-28,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-29,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-3,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-30,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-31,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-32,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-33,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-34,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-35,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-36,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-4,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-5,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-6,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-7,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-8,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/翻土-9,cad/大葱收种一体机/翻土.SLDPRT,默认,True,False
+翻土-3/起垄-1,cad/大葱收种一体机/起垄.SLDPRT,默认,True,False
+翻土-3/起垄座-1,cad/大葱收种一体机/起垄座.SLDPRT,默认,True,False
+翻土-3/轴-1,cad/大葱收种一体机/轴.SLDPRT,默认,True,False
+车架-1,cad/大葱收种一体机/车架.SLDPRT,默认<按加工>,True,False
